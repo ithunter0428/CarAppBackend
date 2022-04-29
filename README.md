@@ -39,5 +39,5 @@ Back: Django, Django-rest-framework
 Database: Sqlite (Don't need Postgres Anymore)
 
 ## Current UI Design 
-<img src="https://github.com/ithunter101/CarAppBackend/blob/master/ui/slide0.jpg" width="400px"> <img src="https://github.com/ithunter101/CarAppBackend/blob/master/ui/Slide1.jpg" width="400px"> <img src="https://github.com/ithunter101/CarAppBackend/blob/master/ui/slide2.jpg" width="400px"> <img src="https://github.com/ithunter101/CarAppBackend/blob/master/ui/slide3.jpg" width="400px">
+<img src="https://github.com/ithunter101/CarAppBackend/blob/main/ui/slide0.jpg" width="400px"> <img src="https://github.com/ithunter101/CarAppBackend/blob/main/ui/Slide1.jpg" width="400px"> <img src="https://github.com/ithunter101/CarAppBackend/blob/main/ui/slide2.jpg" width="400px"> <img src="https://github.com/ithunter101/CarAppBackend/blob/main/ui/slide3.jpg" width="400px">
 
